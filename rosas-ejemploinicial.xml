@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+ <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+             <title xml:id="rosas">El gobernador Rosas ¿un verdadero republicano?</title>
+                
+                <author resp="digital">Agustina Kern</author>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher> Laboratorio de Historia Pública y Digital- UTDT</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> De la academia al aula: efemérides argentinas.
+                Esta página estpa realizada por historiadores de la Universidad Torcuato Di Tella </title>
+
+<p>Como es de público conocimiento, uno de los personajes más influyentes de la historia Argentina fue Juan Manuel de Rosas. Rosas era un estanciero que se desempeñó como gobernador de Buenos Aires durante dos períodos, comprendidos entre 1829 y 1852. Para el historiador Jorge Myers debido a que Rosas se decía republicano es bajo esta clave que debemos estudiarlo. Sin embargo, dadas sus políticas de gobierno, su republicanismo es más que cuestionable. Por ello, nos abocaremos a analizar las características de los gobiernos de Rosas, desde la acción de la propaganda política, su propio personaje político, la imposición de cierta simbología y el rol de figuras de poder nuevas para esa época.</p>
+
+<p>Para comenzar a entender a Juan Manuel de Rosas debemos hablar de sus publicistas y el modo republicano en el que lo retrataban. Esto podemos hacerlo, por ejemplo, a través de la asociación que los  publicistas de Rosas hicieron con la imagen del gobernador porteño y la de Cincinato, un patricio romano de la época de la República Romana. En palabras de Jorge Myers:</p>
+<p>“(...) El retrato de Rosas como Cincinato permitía enfatizar la concentración en su persona de los valores tradicionales de laboriosidad, frugalidad, franqueza e intrepidez frente a los obstáculos que la literatura romana le asignaba al mundo rural, y al mismo tiempo permitía evocar la íntima relación entre aquellos atributos y la virtud ciudadana sin la cual la República estaría ineluctablemente condenada a sucumbir. (...)” (Orden y Virtud, pp. 51-52). </p>
+
+<p> Los publicistas de Rosas justificaban el régimen desde una óptica historicista y organicista. Esto quiere decir que el régimen obedecía a un origen natural, se creía que la historia era una serie de acontecimientos organizados y evolutivos. </p>
+
+<p>A su vez, Rosas decía que le importaba el apoyo popular. Es por ello que se le llamaba “líder carismático”. Echeverría, miembro de la generación del ‘37, por tanto, antagónico de Rosas, argumentaba que Rosas entendía que la soberanía del poder y el voto estaban en el pueblo. El gobernador pretendía un cierto populismo, por ello habilitaba el voto a todo hombre libre, mayor de 21 años. Su objetivo era que todos fuesen partícipes en el gobierno. Las condiciones eran iguales para todos en la representación de los intereses. Ahora bien, Rosas sólo gobernaba si poseía las Facultades Extraordinarias, es decir, un pleno poder institucional. Lo justificaba a partir de un revisionismo hacia los gobiernos anteriores al propio. Rosas entendía que se necesitaba de una “mano dura” para restaurar las leyes que aseguraban el orden social, lo que funcionaba como justificativo para que no permitiese la libertad de prensa ni que estuviese de acuerdo con los “salvajes unitarios”, su oposición política. Para defender el encasillamiento de sus opositores como salvajes, Rosas expuso su argumento basado en el fusilamiento de Facundo Quiroga, un caudillo riojano. Rosas asume el poder muy cercano a la fecha del asesinato de Quiroga y es por ello que en 1835 le otorgan las Facultades Extraordinarias. A través de un plebiscito se adjudicó todo el poder público. Pero para tener todo ese poder, entendía que necesitaba de la legitimidad popular. Con este plebiscito de Rosas hay un cierto retorno a la ley de 1821, es decir, se le otorga poder a los votantes. El pueblo estaba contento de tener “injerencia” en los plebiscitos ya que ahora podían votar. Rosas poseía todo el poder, legitimado por el pueblo y por la ayuda de toda su campaña publicitaria. El gobierno de Rosas, en este sentido, respetó el republicanismo en término de leyes. </p> 
+
+<p>Rosas  creó su propio personaje político que fluctuaba entre el campo y la ciudad. Cuando Rosas estaba en el campo, con los gauchos, se “engauchaba”. Esto significa que se mimetizaba con ellos, se presentaba como “un gaucho más” del grupo. Pero no era más que eso, un personaje. En determinados momentos, Rosas amedrentó en contra de los gauchos. Estos últimos vivían en un engaño, donde el gobernador pretendía hacerles creer que él era el único que los protegía. Rosas quería que los gauchos simpatizaran con él. Cuando se presentaba como “Rosas estanciero” los gauchos trabajaban para él, y cuando se presentaba como “Rosas militar” iban a la guerra por él. Los gauchos seguían a Rosas en situaciones excepcionales. Como explica John Lynch, </p>
+
+<p>“(...) El voto verbal y público, el derecho de los jueces a excluir a los votantes o candidatos que no les parecieran suficientemente calificados, la intimidación de oposición, ésas y muchas otras malas prácticas reducían las elecciones a una farsa. Las listas de Rosas eran en realidad una orden absoluta, y los gauchos y peones que acudían a las urnas lo hacían como rebaño electoral.(...)” (Rosas y las clases populares en Buenos Aires, p.333) </p> 
+A su vez, Rosas ejecutó una “ruralización de la política”, esto significó un proceso de institucionalización del poder en el campo. Se expandió la frontera económica y la político-electoral. Rosas necesitaba que los gauchos entrasen en la política y por eso se mostraba como una figura cercana a ellos. Además de esbozar discursos relativos a que él era el primero en prestarle atención a los gauchos. Otra de sus estrategias políticas fue tener esclavos en buenas condiciones de vida y con la posibilidad de ser liberados. A la vez, Rosas tenía jueces de paz en los territorios de frontera. Como explica Marcela Ternavasio,
+
+“(...) Rosas reforzó aún más la autoridad de los jueces de paz con el objeto de centralizar el control social económico y político del territorio que estaba bajo su tutela y los convirtió en los principales engranajes de su maquinaria unanimista en el campo. (…)”  (La Revolución del voto, p. 220).
+Estos hombres de su confianza aseguraban el orden, iban en contra de la anarquía y hacían que los gauchos “vagos” trabajen por medio de la figura del juez de paz, que era un administrador de la justicia de cada distrito. Rosas necesitaba de gente de su confianza en la frontera rural que colaborara con él, más allá de que poseía el poder total. Los jueces de paz eran un medio de control más para que toda la información llegase a Rosas. El gobernador conocía sus funciones y quería hacerlas cumplir. Estaba siempre al pendiente de la administración de sus territorios. Aunque no debemos olvidar que los disciplinamientos a los “vagos” (indios o gauchos) eran físicos. Rosas incorporó a los indios al trabajo de manera ordenada. Aquí podemos observar la lógica de pensamiento estanciero de Rosas, propia de su origen como estanciero, que organizaba a su gente en una relación patrón-peón.
+
+Por otra parte, y más allá de todo esto, Rosas creía en la unanimidad electoral. Esto significa que se creaba, desde el gobierno, una lista única de candidatos a gobernadores. Rosas no toleraba la diversidad de opiniones políticas. La prensa justificaba este discurso con frases como “se elige a Rosas o se cae en la anarquía”.
+
+Dentro de sus mecanismos de control, si así podemos llamarles, Rosas implementó simbolismos. Uno de ellos era la “divisa punzó”. Era una tira color bordó que la portaban aquellos que se identificaban a favor de su gobierno. En cierto punto se convirtió en una obligación utilizarla, a raíz de la falta de tolerancia de Rosas a la diversidad de opiniones políticas. Sin embargo existía un grupo de intelectuales, la Generación del ‘37, que estaban abiertamente en contra de Rosas. Ellos eran jóvenes que se habían educado en el período rivadaviano, el gobierno anterior al de Rosas y defendían ideas de la ilustración. Eran letrados que querían generar un canon literario propio de los porteños. Las obras literarias se vinculaban a sentimientos y pasiones, al arraigo territorial. El objetivo era la plena consagración de la civilización y de los centros urbanos. 
+
+La Generación del ‘37 era bastante pesimista. No se alineaban ideológicamente con Rosas pero tampoco tenían esperanzas en que sus ciclos de gobiernos finalizasen: estaban convencidos de que Rosas gobernaría por un largo periodo. A pesar de no formar parte del partido unitario, es decir, el partido opositor al de Rosas, estos jóvenes terminaron siendo asociados al mismo. El motivo es simple: se sumaron a la campaña militar en contra de Rosas. Ir en contra de Rosas implicaba afrontar el exilio y la violencia política. Dentro de esta lógica de no tolerancia a la diversidad de opiniones políticas, Rosas también contaba con un grupo armado, de corte parapolicial, destinado a la persecución de la oposición política llamado La Mazorca. 
+
+Por ello podemos afirmar que Rosas mantuvo el derecho al sufragio pero con una lista única, ya que creía que la diversidad de opiniones políticas llevaba a las pujas internas. Para el gobernador esto era intolerable ya que él promovía el orden y la armonía política. Como explica el propio Jorge Myers, Rosas quería un “unanimismo”.
+
+“(...) la monopolización progresiva de todas las instituciones públicas de la provincia haría muy difícil la emisión de un discurso alternativo, aun bajo condiciones de (muy) relativa libertad para la circulación de ideas e informaciones. (…) El principal valor a ser transmitido no debía ser el de la pluralidad de opiniones, sino el de la unanimidad de las mismas (...)” (Orden y Virtud, p. 22).
+En este sentido, el historiador Ricardo Salvatore hace incapié en que, de todos modos, tampoco podríamos afirmar que el gobierno rosista fue genuinamente unanimista. Salvatore se pregunta qué habrán pensado los grupos subalternos, como las mujeres, soldados rasos y hombres encarcelados. Quizás, a pesar de los esfuerzos por mantener un único modo de entender la política y la concepción de que Rosas era el único capacitado para gobernar, lo más probable es que estos grupos no hayan pensado igual. 
+
+En conclusión, más allá de los elementos republicanos que pudo haber aplicado Rosas, como permitir el voto por medio de los plebiscitos, y la supuesta legitimidad que sus Facultades Extraordinarias tenían a raíz de ello, Rosas fue bastante autoritario. Su unanimismo político, el hecho de no permitir que hubiera más listas en las elecciones y la persecución política en contra de los que se atrevieran a ser opositores, era brutal. Además, aplicaba métodos de control de la población. Desde lo simbólico, como la portación de la divisa punzó hasta los jueces de paz que controlaban a los gauchos y ponían a trabajar de modo organizado a los “indios” rebeldes o La Mazorca, que perseguía a los opositores políticos del rosismo. Es decir, Rosas fue republicano desde las leyes pero no en todas sus políticas de gobierno. 
+
+<listBibl>
+    <bibl>
+        <author>
+            <surname>Halperín Donghi</surname>, <forename>T.</forename>
+        </author>
+        <date when="2019">2019</date>
+        <title level="m">Revolución y guerra. Formación de una elite dirigente en la Argentina criolla</title>
+        <edition>Cuarta edición</edition>
+        <pubPlace>Buenos Aires</pubPlace>
+        <publisher>Siglo Veintiuno</publisher>
+    </bibl>
+
+    <bibl>
+        <author>
+            <surname>Lynch</surname>, <forename>J.</forename>
+        </author>
+        <date when="1982">1982</date>
+        <title level="m">Rosas y las clases populares en Buenos Aires</title>
+        <pubPlace>Buenos Aires</pubPlace>
+        <publisher>Siglo Veintiuno</publisher>
+    </bibl>
+
+    <bibl>
+        <author>
+            <surname>Myers</surname>, <forename>J.</forename>
+        </author>
+        <date when="2002">2002</date>
+        <title level="m">Orden y virtud: el discurso republicano en el régimen rosista</title>
+        <publisher>Universidad Nacional de Quilmes</publisher>
+    </bibl>
+
+    <bibl>
+        <author>
+            <surname>Salvatore</surname>, <forename>R.</forename>
+        </author>
+        <date when="1998">1998</date>
+        <title level="m">La cultura política del régimen rosista</title>
+        <pubPlace>Buenos Aires</pubPlace>
+        <publisher>Emecé editores</publisher>
+    </bibl>
+
+    <bibl>
+        <author>
+            <surname>Ternavasio</surname>, <forename>M.</forename>
+        </author>
+        <date when="2002">2002</date>
+        <title level="m">La revolución del voto</title>
+        <pubPlace>Buenos Aires</pubPlace>
+        <publisher>Siglo Veintiuno</publisher>
+    </bibl>
+
+    <bibl>
+        <author>
+            <surname>Ternavasio</surname>, <forename>M.</forename>
+        </author>
+        <date when="2009">2009</date>
+        <title level="m">Historia de la Argentina 1806-1852</title>
+        <pubPlace>Buenos Aires</pubPlace>
+        <publisher>Siglo Veintiuno</publisher>
+    </bibl>
+</listBibl> 
